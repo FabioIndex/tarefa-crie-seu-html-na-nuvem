@@ -1,5 +1,5 @@
 
-### 1. Como gerar um arquivo HTML no Codespaces
+## 1. Como gerar um arquivo HTML no Codespaces
 Dentro do seu ambiente do Codespaces (que utiliza a interface do VS Code):
 No painel lateral esquerdo (Explorer), clique com o botão direito ou no ícone de "Novo Arquivo".
 Nomeie o arquivo como index.html (é o padrão para a página principal).
