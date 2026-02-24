@@ -4,6 +4,8 @@ Dentro do seu ambiente do Codespaces (que utiliza a interface do VS Code):
 No painel lateral esquerdo (Explorer), clique com o botão direito ou no ícone de "Novo Arquivo".
 Nomeie o arquivo como index.html (é o padrão para a página principal).
 No arquivo aberto, digite ! e aperte Enter. O VS Code usará o atalho Emmet para gerar a estrutura básica do HTML5 automaticamente. 
+Na seguencia faça um commit.. para salver no repositorio da tafefa ...
+
 ## 2. Como instalar o Live Server
 Clique no ícone de Extensões na barra lateral esquerda (parece um conjunto de blocos) ou use o atalho Ctrl+Shift+X.
 Na barra de pesquisa, digite "Live Server".
